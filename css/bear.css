@@ -10,7 +10,7 @@ html {
 
 @media screen only and (min-width: 1196px){
   #bear {
-    position: relative;
+    position: fixed;
     top: 100px;
     right: 800px;
   }
